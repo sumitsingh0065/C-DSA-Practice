@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main(){
+    int i=10;
+    int j=20;
+    int a=1, b=2, c=3, d=4;
+    printf ("the value of i is %d and  value of j is %d ", i ,j);
+    printf("the value of a is %d and  value of b is %d", a, b);
+    printf ("the value of c is %d and  value of d is %d", c, d);
+
+
+    return 0;
+}
